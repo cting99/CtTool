@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Android\\workspace\\CtTool\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_tool_blue_24dp.png",
+        "source": "D:\\Android\\workspace\\CtTool\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_tool_blue_24dp.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\CtTool\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_tool_white_24dp.png",
+        "source": "D:\\Android\\workspace\\CtTool\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_tool_white_24dp.png"
+    }
+]

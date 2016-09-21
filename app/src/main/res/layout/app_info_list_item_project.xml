@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:orientation="vertical"
+    android:paddingBottom="10dip"
+    android:paddingTop="10dip">
+
+    <TextView
+        android:id="@+id/app_name"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:paddingTop="8dp"
+        android:textSize="16sp"
+        tools:text="Gba" />
+
+    <TextView
+        android:id="@+id/app_label"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:paddingTop="8dp"
+        android:textSize="16sp"
+        tools:text="GBA Service" />
+
+    <TextView
+        android:id="@+id/app_version"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:paddingTop="8dp"
+        android:textSize="14sp"
+        tools:text="5.1-1462180797" />
+
+    <TextView
+        android:id="@+id/app_owner"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:paddingTop="8dp"
+        android:textSize="14sp"
+        tools:text="Google" />
+
+    <TextView
+        android:id="@+id/app_path"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:paddingTop="8dp"
+        android:textSize="14sp"
+        tools:text="/system/app/Gba/Gba.apk" />
+
+</LinearLayout>
+
+

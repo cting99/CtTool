@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:orientation="vertical"
+    android:paddingBottom="10dip"
+    android:paddingTop="10dip">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/app_list_item_preview_img_height"
+        android:orientation="horizontal"
+        android:weightSum="2.0">
+
+        <ImageView
+            android:id="@+id/app_icon"
+            android:layout_width="0px"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginRight="16dp"
+            android:layout_weight="1.0"
+            android:background="@color/color_widget_list_bg"
+            android:scaleType="centerInside"
+            tools:src="@drawable/app_info_def_icon" />
+
+        <LinearLayout
+            android:layout_width="0px"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1.0"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/app_label"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:textSize="16sp"
+                tools:text="Mms" />
+
+            <TextView
+                android:id="@+id/app_version"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:textSize="14sp"
+                tools:text="6.0-1472136819" />
+
+            <TextView
+                android:id="@+id/widget_size"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:textSize="14sp"
+                tools:text="1x1" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/app_path"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:paddingTop="8dp"
+        android:text="/system/priv-app/MtkMms/MtkMms.apk"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/app_action"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:paddingTop="8dp"
+        android:textSize="14sp"
+        tools:text="com.android.mms/.widget.MmsWidgetProvider" />
+
+</LinearLayout>
+
+

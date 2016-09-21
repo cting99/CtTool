@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Android\\workspace\\CtTool\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_ct_tool_base.xml",
+        "source": "D:\\Android\\workspace\\CtTool\\app\\src\\main\\res\\xml\\pref_ct_tool_base.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\CtTool\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_ct_tool.xml",
+        "source": "D:\\Android\\workspace\\CtTool\\app\\src\\main\\res\\xml\\pref_ct_tool.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\CtTool\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_app_info.xml",
+        "source": "D:\\Android\\workspace\\CtTool\\app\\src\\main\\res\\xml\\pref_app_info.xml"
+    }
+]

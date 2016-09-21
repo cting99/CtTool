@@ -1,0 +1,46 @@
+<preference-headers xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--<header
+        android:fragment="com.ct.tool.TestFragment"
+        android:icon="@drawable/ic_app_black_24dp"
+        android:title="@string/fragment_test" />-->
+
+    <header
+        android:icon="@drawable/ic_app_black_24dp"
+        android:title="@string/fragment_development">
+        <intent android:action="@string/fragment_development_action"/>
+    </header>
+
+    <header
+        android:icon="@drawable/ic_app_black_24dp"
+        android:title="@string/fragment_local">
+        <intent android:action="@string/fragment_local_action"/>
+    </header>
+
+    <header
+        android:icon="@drawable/ic_app_black_24dp"
+        android:title="@string/title_activity_apk_info_selector">
+        <intent android:action="ct.tool.action.APP_INFO"/>
+    </header>
+
+    <header
+        android:fragment="com.ct.tool.fragment.DeviceConfigFragment"
+        android:icon="@drawable/ic_app_black_24dp"
+        android:title="@string/fragment_config" />
+
+    <header
+        android:fragment="com.ct.tool.fragment.SimFragment"
+        android:icon="@drawable/ic_app_black_24dp"
+        android:title="@string/fragment_sim" />
+<!--
+    <header
+        android:fragment="com.ct.tool.fragment.MusicFragment"
+        android:icon="@drawable/ic_app_black_24dp"
+        android:title="@string/fragment_music" />
+    <header
+        android:fragment="com.ct.tool.fragment.SensorFragment"
+        android:icon="@drawable/ic_app_black_24dp"
+        android:title="@string/fragment_sensor" />
+-->
+
+
+</preference-headers>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apk_info_menu_export">导出</string>
+    <string name="apk_info_menu_search">搜索</string>
+    <string name="app_permission_toast">CtTool需要的权限都打开才能使用</string>
+    <string name="fragment_app_list">APP列表</string>
+    <string name="fragment_app_list_all">所有APP</string>
+    <string name="fragment_app_list_home">桌面</string>
+    <string name="fragment_app_list_ime">输入法</string>
+    <string name="fragment_app_list_shortcut">桌面所有图标</string>
+    <string name="fragment_app_list_system_app">Google</string>
+    <string name="fragment_app_list_third_app">第三方</string>
+    <string name="fragment_app_list_widget">窗口小部件</string>
+    <string name="fragment_config">配置</string>
+    <string name="fragment_config_label_density">密度</string>
+    <string name="fragment_config_label_lcm_size">高x宽</string>
+    <string name="fragment_config_label_local">语言</string>
+    <string name="fragment_config_label_local_code">语言代码</string>
+    <string name="fragment_config_label_product">手机型号</string>
+    <string name="fragment_development">link 开发者模式</string>
+    <string name="fragment_local">link 系统语言</string>
+    <string name="fragment_music">音乐</string>
+    <string name="fragment_sim">Sim卡</string>
+    <string name="fragment_test">test</string>
+    <string name="title_activity_apk_info_selector">APP包名类名</string>
+    <string name="title_activity_base">ApkBaseInfoListActivity</string>
+</resources>

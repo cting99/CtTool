@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\Android\\workspace\\CtTool\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_info_list_item_shortcut.xml",
+        "source": "D:\\Android\\workspace\\CtTool\\app\\src\\main\\res\\layout\\app_info_list_item_shortcut.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\CtTool\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_info_list_item.xml",
+        "source": "D:\\Android\\workspace\\CtTool\\app\\src\\main\\res\\layout\\app_info_list_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\CtTool\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_info_list_item_project.xml",
+        "source": "D:\\Android\\workspace\\CtTool\\app\\src\\main\\res\\layout\\app_info_list_item_project.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\CtTool\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_info_list_item_widget.xml",
+        "source": "D:\\Android\\workspace\\CtTool\\app\\src\\main\\res\\layout\\app_info_list_item_widget.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\CtTool\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Android\\workspace\\CtTool\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\CtTool\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_music.xml",
+        "source": "D:\\Android\\workspace\\CtTool\\app\\src\\main\\res\\layout\\fragment_music.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\CtTool\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_list_two_column_item.xml",
+        "source": "D:\\Android\\workspace\\CtTool\\app\\src\\main\\res\\layout\\fragment_list_two_column_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\CtTool\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_list_simple_single_text_with_icon.xml",
+        "source": "D:\\Android\\workspace\\CtTool\\app\\src\\main\\res\\layout\\fragment_list_simple_single_text_with_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\CtTool\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_list_simple_item.xml",
+        "source": "D:\\Android\\workspace\\CtTool\\app\\src\\main\\res\\layout\\fragment_list_simple_item.xml"
+    }
+]

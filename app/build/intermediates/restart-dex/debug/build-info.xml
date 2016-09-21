@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xhdpi"
+    format="7"
+    timestamp="27838021412337"
+    token="-8100035768978318857" >
+
+    <task
+        name="javac"
+        duration="186" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="140" />
+    <task
+        name="verifier"
+        duration="49" />
+
+    <artifact
+        location="D:\Android\workspace\CtTool\app\build\outputs\apk\CtTool-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="27838021412337" >
+        <artifact
+            location="D:\Android\workspace\CtTool\app\build\outputs\apk\CtTool-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

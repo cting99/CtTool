@@ -1,0 +1,33 @@
+<preference-headers xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <header
+        android:fragment="com.ct.tool.fragment.ApkListFragment$Project"
+        android:icon="@drawable/ic_app_black_24dp"
+        android:title="@string/fragment_app_list_project" />
+
+    <header
+        android:fragment="com.ct.tool.fragment.ApkListFragment$All"
+        android:icon="@drawable/ic_app_black_24dp"
+        android:title="@string/fragment_app_list_all" />
+
+    <header
+        android:fragment="com.ct.tool.fragment.ApkListFragment$Shortcut"
+        android:icon="@drawable/ic_app_black_24dp"
+        android:title="@string/fragment_app_list_shortcut" />
+
+    <header
+        android:fragment="com.ct.tool.fragment.ApkListFragment$Home"
+        android:icon="@drawable/ic_app_black_24dp"
+        android:title="@string/fragment_app_list_home" />
+
+    <header
+        android:fragment="com.ct.tool.fragment.ApkListFragment$Ime"
+        android:icon="@drawable/ic_app_black_24dp"
+        android:title="@string/fragment_app_list_ime" />
+
+    <header
+        android:fragment="com.ct.tool.fragment.ApkListFragment$Widget"
+        android:icon="@drawable/ic_app_black_24dp"
+        android:title="@string/fragment_app_list_widget" />
+
+</preference-headers>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ct.tool">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_tool_blue_24dp"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <receiver android:name=".CtCommonReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.LOCALE_CHANGED" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name=".base.CtActivity"
+            android:label="@string/title_activity_base">
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <meta-data
+                android:name="com.ct.tool.FRAGMENT"
+                android:resource="@xml/pref_ct_tool_base" />
+        </activity>
+
+        <activity-alias
+            android:name="CtToolActivity"
+            android:label="@string/app_name"
+            android:targetActivity=".base.CtActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <meta-data
+                android:name="com.ct.tool.HEADER"
+                android:resource="@xml/pref_ct_tool" />
+        </activity-alias>
+
+        <activity-alias
+            android:name="AppInfoActivity"
+            android:label="@string/title_activity_apk_info_selector"
+            android:targetActivity=".base.CtActivity">
+            <intent-filter>
+                <action android:name="ct.tool.action.APP_INFO" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <meta-data
+                android:name="com.ct.tool.HEADER"
+                android:resource="@xml/pref_app_info" />
+        </activity-alias>
+
+
+    </application>
+
+</manifest>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android\workspace\CtTool\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="28b9cc16c71e68688b988141386b8c068d26442a">
+        <dex dex="D:\Android\workspace\CtTool\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5255523a5f85bb48afe2829ac1e8a9654b8264d9\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\workspace\CtTool\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f599ab43c5daa46548da46bee96d9350dc1568ff">
+        <dex dex="D:\Android\workspace\CtTool\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f618b2a1e8c3d99dba6d397db04e771fc42fc673\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="D:\Android\workspace\CtTool\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.2.1_efd358856f7349d1a9ffd2b176d6d830be5c44c9\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorTest">#22000000</color>
+    <color name="color_widget_list_bg">#22000000</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="app_list_item_icon_size">30dip</dimen>
+    <dimen name="app_list_item_preview_img_height">85dip</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="music_btn_height">45dip</dimen>
+    <item format="float" name="roaming_and_data_connection_icon_padding" type="dimen"> 2</item>
+    <dimen name="text_margin">16dp</dimen>
+    <string name="apk_info_menu_export">Export</string>
+    <string name="apk_info_menu_search">Search</string>
+    <string name="app_name" translatable="false">CtTool</string>
+    <string name="app_permission_toast">CtTool Need all permission granted!</string>
+    <string name="fragment_app_list">App List</string>
+    <string name="fragment_app_list_all">All apps</string>
+    <string name="fragment_app_list_home">Home apps</string>
+    <string name="fragment_app_list_ime">IME apps</string>
+    <string name="fragment_app_list_project">Project</string>
+    <string name="fragment_app_list_shortcut">Shortcut apps</string>
+    <string name="fragment_app_list_system_app">Google</string>
+    <string name="fragment_app_list_third_app">Third app</string>
+    <string name="fragment_app_list_widget">Widget apps</string>
+    <string name="fragment_config">Configuration</string>
+    <string name="fragment_config_format_ime" translatable="false">
+        "<ns1:g id="imeName">%s</ns1:g>,<ns1:g id="subtypeInfo">%s</ns1:g>\n<ns1:g id="component">%s</ns1:g>"
+    </string>
+    <string name="fragment_config_format_ime_subtype" translatable="false">
+        "<ns1:g id="subtypeHashCode">%s</ns1:g> {<ns1:g id="local">%s</ns1:g>, <ns1:g id="displayName">%s</ns1:g>}"
+    </string>
+    <string name="fragment_config_label_density">Density</string>
+    <string name="fragment_config_label_lcm_size">H x W</string>
+    <string name="fragment_config_label_local">Local</string>
+    <string name="fragment_config_label_local_code">Local code</string>
+    <string name="fragment_config_label_local_mcc_mnc" translatable="false">MccMnc</string>
+    <string name="fragment_config_label_product">Product</string>
+    <string name="fragment_development">link Development</string>
+    <string name="fragment_development_action" translatable="false">"com.android.settings.APPLICATION_DEVELOPMENT_SETTINGS"</string>
+    <string name="fragment_ime_action" translatable="false">"android.settings.INPUT_METHOD_SETTINGS"</string>
+    <string name="fragment_local">link Local</string>
+    <string name="fragment_local_action" translatable="false">"android.settings.LOCALE_SETTINGS"</string>
+    <string name="fragment_music">Music control</string>
+    <string name="fragment_sensor" translatable="false">Sensor</string>
+    <string name="fragment_sim">Sim</string>
+    <string name="fragment_test">Test</string>
+    <string name="text_line_format_label_value" translatable="false">
+        "【 <ns1:g id="label">%s</ns1:g> 】<ns1:g id="value">%s</ns1:g>"
+    </string>
+    <string name="text_line_format_title_summary" translatable="false">
+        "【 <ns1:g id="label">%s</ns1:g> 】\n\t\t<ns1:g id="summary">%s</ns1:g>"
+    </string>
+    <string name="text_line_format_title_summary_no_tab" translatable="false">
+        "【 <ns1:g id="label">%s</ns1:g> 】\n<ns1:g id="summary">%s</ns1:g>"
+    </string>
+    <string name="title_activity_apk_info_selector">ApkInfoSelector</string>
+    <string name="title_activity_base">ApkBaseInfoListActivity</string>
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!--<item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>-->
+    </style>
+    <style name="AppTheme.NoActionBar">
+        <!--<item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>-->
+    </style>
+</resources>

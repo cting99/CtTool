@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "D:\\Android\\workspace\\CtTool\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_music_play_black_24px.xml",
+        "source": "D:\\Android\\workspace\\CtTool\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_music_play_black_24px.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\CtTool\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\stat_sys_data_fully_connected_lte_roam.xml",
+        "source": "D:\\Android\\workspace\\CtTool\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\stat_sys_data_fully_connected_lte_roam.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\CtTool\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_tool_blue_24dp.xml",
+        "source": "D:\\Android\\workspace\\CtTool\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_tool_blue_24dp.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\CtTool\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\stat_sys_data_fully_connected_3g_roam.xml",
+        "source": "D:\\Android\\workspace\\CtTool\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\stat_sys_data_fully_connected_3g_roam.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\CtTool\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\stat_sys_data_fully_connected_1x_roam.xml",
+        "source": "D:\\Android\\workspace\\CtTool\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\stat_sys_data_fully_connected_1x_roam.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\CtTool\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_menu_search_white_24dp.xml",
+        "source": "D:\\Android\\workspace\\CtTool\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_search_white_24dp.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\CtTool\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_app_black_24dp.xml",
+        "source": "D:\\Android\\workspace\\CtTool\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_app_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\CtTool\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_tool_white_24dp.xml",
+        "source": "D:\\Android\\workspace\\CtTool\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_tool_white_24dp.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\CtTool\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_music_skip_previous_black_24px.xml",
+        "source": "D:\\Android\\workspace\\CtTool\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_music_skip_previous_black_24px.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\CtTool\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_music_pause_black_24px.xml",
+        "source": "D:\\Android\\workspace\\CtTool\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_music_pause_black_24px.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\CtTool\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\stat_sys_volte_icon_hd.xml",
+        "source": "D:\\Android\\workspace\\CtTool\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\stat_sys_volte_icon_hd.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\CtTool\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_music_skip_next_black_24px.xml",
+        "source": "D:\\Android\\workspace\\CtTool\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_music_skip_next_black_24px.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\CtTool\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_menu_file_download_white_24dp.xml",
+        "source": "D:\\Android\\workspace\\CtTool\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_file_download_white_24dp.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\CtTool\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\stat_sys_data_fully_connected_4g_roam.xml",
+        "source": "D:\\Android\\workspace\\CtTool\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\stat_sys_data_fully_connected_4g_roam.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\CtTool\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\stat_sys_signal_3_fully.xml",
+        "source": "D:\\Android\\workspace\\CtTool\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\stat_sys_signal_3_fully.xml"
+    }
+]

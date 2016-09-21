@@ -1,0 +1,13 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+
+    <dimen name="app_list_item_icon_size">30dip</dimen>
+    <dimen name="app_list_item_preview_img_height">85dip</dimen>
+
+    <!--<dimen name="music_btn_width">50dip</dimen>-->
+    <dimen name="music_btn_height">45dip</dimen>
+</resources>
